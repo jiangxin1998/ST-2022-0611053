@@ -6,3 +6,6 @@
 ![image](https://github.com/jiangxin1998/ST-2022-0611053/blob/main/passed.png)
 ![image](https://github.com/jiangxin1998/ST-2022-0611053/blob/main/SUCCESS.png)
 
+* FAIL image
+![image](https://github.com/jiangxin1998/ST-2022-0611053/blob/main/fail.png)
+![image](https://github.com/jiangxin1998/ST-2022-0611053/blob/main/FAILED.png)
